@@ -1,5 +1,6 @@
-function formatMe(params) {
-  const foo = "11111";
+function formatMe           (params) {
+  const foo    = '11111';
 
-  return foo;
+    return foo;
 }
+
